@@ -8,6 +8,8 @@ sudo apt-get install git-core
 
 sudo apt-get install -y python-software-properties debconf-utils
 
+sudo apt-get install python-virtualenv
+
 # vim
 sudo apt-get install vim
 wget https://raw.githubusercontent.com/amix/vimrc/master/vimrcs/basic.vim
